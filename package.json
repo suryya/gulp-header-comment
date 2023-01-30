@@ -1,6 +1,6 @@
 {
-  "name": "gulp-header-comment",
-  "version": "0.10.0",
+  "name": "gulp-header-comment-vdx",
+  "version": "0.10.1",
   "description": "Gulp plugin to add header comments to files",
   "main": "dist/index.js",
   "scripts": {
